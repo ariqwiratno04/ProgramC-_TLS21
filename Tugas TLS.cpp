@@ -4,7 +4,8 @@
 
 using namespace std;
 
- //mesin kasir
+ //Ruby_Ariq Naufal Fakri Wiratno
+ // Daftar Belanja C++ Sederhana
 
 
 int main()
