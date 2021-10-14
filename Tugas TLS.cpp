@@ -9,8 +9,8 @@ using namespace std;
 
 int main()
 {
-    int jumlah_barang, i, harga_item[10], jumlah_item[10], sub_total[10];
-    string nama_item[10];
+    int jumlah_barang, i, harga_item[20], jumlah_item[20], sub_total[20];
+    string nama_item[20];
     int total;
 
     cout << "DAFTAR BELANJA C++" << endl;
